@@ -2,9 +2,22 @@
 
 body {
 	background-color: #7c7c7c;
+	border: 0;
 }
 
 #site {
 	width: 750px;
 	margin: auto;
+}
+
+#banner {
+	height: 70;
+}
+
+#bannerlogo {
+	width: 91;
+}
+
+#bannername {
+	width: 500;
 }
