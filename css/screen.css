@@ -1,6 +1,4 @@
-/* @override 
-	http://firedpot.github.com/css/screen.css
-*/
+/* @override http://firedpot.github.com/css/screen.css */
 
 body {
 	background-color: #7c7c7c;
@@ -16,11 +14,14 @@ body {
 }
 
 #frontpage {
-	font-family: "museo-sans-1","museo-sans-2";
+	font-family: "museo-sans-1","museo-sans-2",sans-serif;
+	font-weight: bold;
+	text-align: center;
 }
 
 #page {
 	margin-top: 5%;
+	font-size: large;
 }
 
 #content {
@@ -40,4 +41,8 @@ body {
 #menu {
 	width: 150px;
 	display: inline-block;
+}
+
+.english {
+	color: #4ee5d9;
 }
