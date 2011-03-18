@@ -2,22 +2,11 @@
 
 body {
 	background-color: #7c7c7c;
+	font: 75%/1.4 verdana, helvetica, sans-serif;
 	border: 0;
 }
 
 #site {
 	width: 750px;
 	margin: auto;
-}
-
-#banner {
-	height: 70;
-}
-
-#bannerlogo {
-	width: 91;
-}
-
-#bannername {
-	width: 500;
 }
