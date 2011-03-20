@@ -1,3 +1,7 @@
+---
+layout: english
+title: Paola Di Celmo - CV
+---
 h1. Education
 
 | 2004 | BTEC Professional Development Diploma in Fine Art |
