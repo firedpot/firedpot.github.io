@@ -46,6 +46,38 @@ body {
 	color: #4ee5d9;
 }
 
+.english a:link {
+	color: #4ee5d9;
+}
+
+.english a:active {
+	color: #4ee5d9;
+}
+
+.english a:visited {
+	color: #4ee5d9;
+}
+
+.english a:hover {
+	color: #4ee5d9;
+}
+
 .italiano {
+	color: teal;
+}
+
+.italiano a:link {
+	color: teal;
+}
+
+.italiano a:active {
+	color: teal;
+}
+
+.italiano a:visited {
+	color: teal;
+}
+
+.italiano a:hover {
 	color: teal;
 }
