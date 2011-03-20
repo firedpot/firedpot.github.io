@@ -11,7 +11,6 @@ body {
 }
 
 #frontpage {
-	font-family: "museo-sans-1","museo-sans-2",sans-serif;
 	font-weight: bold;
 	text-align: center;
 }
@@ -44,6 +43,7 @@ body {
 
 .english {
 	color: #4ee5d9;
+	font-family: "museo-sans-1","museo-sans-2",sans-serif;
 }
 
 .english a:link {
@@ -80,4 +80,14 @@ body {
 
 .italiano a:hover {
 	color: teal;
+}
+
+h1 {
+	font-weight: bold;
+	font-variant: small-caps;
+	border-bottom: thin solid silver;
+}
+
+tr td:first-child {
+	width: 15%;
 }
