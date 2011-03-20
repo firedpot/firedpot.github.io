@@ -91,3 +91,7 @@ h1 {
 tr td:first-child {
 	width: 15%;
 }
+
+td {
+	vertical-align: top;
+}
