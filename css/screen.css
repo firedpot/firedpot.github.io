@@ -38,6 +38,8 @@ body {
 #menu {
 	width: 150px;
 	display: inline-block;
+	float: left;
+	font: small-caps bold x-large "museo-sans-1","museo-sans-2",sans-serif;
 }
 
 .english {
