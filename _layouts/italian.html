@@ -20,7 +20,9 @@ language: italian
 			<li><a href="/pages/english/{{ page.link }}.html" title="English">English</a></li>
 		</ul>
 	</div>
-	<div id="content" class="italian">
-		{{ content }}
+	<div id="content" class="english">
+		<div id="{{ page.link }}">
+			{{ content }}
+		</div>
 	</div>
 </div>
