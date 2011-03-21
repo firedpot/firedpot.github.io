@@ -88,14 +88,14 @@ h1 {
 	border-bottom: thin solid silver;
 }
 
-table {
+#cv table {
 	width: 500px;
 }
 
-tr td:first-child {
+#cv tr td:first-child {
 	width: 100px;
 }
 
-td {
+#cv td {
 	vertical-align: top;
 }
