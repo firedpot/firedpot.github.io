@@ -88,7 +88,7 @@ h1 {
 	border-bottom: thin solid silver;
 }
 
-table {
+#cv table {
 	width: 500px;
 }
 
@@ -98,4 +98,8 @@ table {
 
 #cv td {
 	vertical-align: top;
+}
+
+#gallery table {
+	width: 700px;
 }
