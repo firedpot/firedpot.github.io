@@ -23,6 +23,7 @@ body {
 #content {
 	display: inline-block;
 	margin-left: 35px;
+	color: #000;
 }
 
 #logo {
