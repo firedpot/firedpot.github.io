@@ -30,8 +30,7 @@ body {
 #content {
 	display: inline-block;
 	color: black;
-	position: absolute;
-	margin-left: 0px;
+	position: fixed;
 	width: 500px;
 }
 
