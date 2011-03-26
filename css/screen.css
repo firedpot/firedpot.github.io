@@ -4,8 +4,7 @@ body {
 	background-color: #7c7c7c;
 	width: 750px;
 	margin: auto;
-	font-family: Verdana, Arial, sans-serif;
-	font-size: 1.2em;
+	font: 1.2em/1.2em Verdana, Arial, sans-serif;
 }
 
 #banner, #page {
@@ -32,7 +31,7 @@ body {
 	display: inline-block;
 	color: black;
 	position: absolute;
-	margin-left: 0px;
+	width: 500px;
 }
 
 #logo {
@@ -65,7 +64,7 @@ h1:first-child {
 
 h1 {
 	font-size: 1.2em;
-	margin-bottom: 1.2em;
+	margin-bottom: 0.6em;
 	font-weight: bold;
 	font-variant: small-caps;
 	border-bottom: thin solid silver;
