@@ -41,6 +41,7 @@ body {
 	width: 150px;
 	display: inline-block;
 	float: left;
+	background-color: black;
 }
 
 #menu a {
