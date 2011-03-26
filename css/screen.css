@@ -2,20 +2,16 @@ body {
 	background-color: #7c7c7c;
 	width: 750px;
 	margin: auto;
+	font-family: Verdana, Arial, sans-serif;
 }
 
-#banner {
+#banner, #page {
 	margin-top: 5%;
 }
 
 #frontpage {
 	font-weight: bold;
 	text-align: center;
-}
-
-#page {
-	margin-top: 5%;
-	font-size: large;
 }
 
 #content {
