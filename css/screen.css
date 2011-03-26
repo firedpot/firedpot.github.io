@@ -10,6 +10,14 @@ body {
 	margin-top: 5%;
 }
 
+.english {
+	color: #4ee5d9;
+}
+
+.italian {
+	color: teal;
+}
+
 #frontpage {
 	text-align: center;
 }
@@ -40,15 +48,7 @@ body {
 	display: block;
 }
 
-.english a {
-	color: #4ee5d9;
-}
-
-.italian a {
-	color: teal;
-}
-
-a:hover {
+#menu a:hover {
 	text-decoration: underline;
 }
 

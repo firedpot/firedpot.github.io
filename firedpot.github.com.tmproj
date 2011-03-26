@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>index.html</string>
+	<string>css/screen.css</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -17,15 +17,13 @@
 					<key>filename</key>
 					<string>index.html</string>
 					<key>lastUsed</key>
-					<date>2011-03-26T10:38:00Z</date>
+					<date>2011-03-26T12:37:25Z</date>
 				</dict>
 			</array>
 			<key>expanded</key>
 			<true/>
 			<key>name</key>
 			<string>Home</string>
-			<key>selected</key>
-			<true/>
 		</dict>
 		<dict>
 			<key>children</key>
@@ -34,7 +32,9 @@
 					<key>filename</key>
 					<string>css/screen.css</string>
 					<key>lastUsed</key>
-					<date>2011-03-24T07:33:33Z</date>
+					<date>2011-03-26T14:09:46Z</date>
+					<key>selected</key>
+					<true/>
 				</dict>
 			</array>
 			<key>expanded</key>
@@ -47,9 +47,24 @@
 			<array>
 				<dict>
 					<key>filename</key>
+					<string>_includes/home.html</string>
+					<key>lastUsed</key>
+					<date>2011-03-26T14:05:33Z</date>
+				</dict>
+			</array>
+			<key>expanded</key>
+			<true/>
+			<key>name</key>
+			<string>Includes</string>
+		</dict>
+		<dict>
+			<key>children</key>
+			<array>
+				<dict>
+					<key>filename</key>
 					<string>_layouts/common.html</string>
 					<key>lastUsed</key>
-					<date>2011-03-26T10:35:09Z</date>
+					<date>2011-03-26T14:09:46Z</date>
 				</dict>
 			</array>
 			<key>expanded</key>
@@ -67,7 +82,7 @@
 							<key>filename</key>
 							<string>pages/english/cv.textile</string>
 							<key>lastUsed</key>
-							<date>2011-03-26T10:37:18Z</date>
+							<date>2011-03-26T10:53:28Z</date>
 						</dict>
 						<dict>
 							<key>filename</key>
@@ -76,6 +91,8 @@
 						<dict>
 							<key>filename</key>
 							<string>pages/english/home.html</string>
+							<key>lastUsed</key>
+							<date>2011-03-26T14:06:17Z</date>
 						</dict>
 						<dict>
 							<key>filename</key>
@@ -102,13 +119,13 @@
 							<key>filename</key>
 							<string>_layouts/landing.html</string>
 							<key>lastUsed</key>
-							<date>2011-03-24T07:33:26Z</date>
+							<date>2011-03-26T14:06:15Z</date>
 						</dict>
 						<dict>
 							<key>filename</key>
 							<string>_layouts/english.html</string>
 							<key>lastUsed</key>
-							<date>2011-03-24T07:33:28Z</date>
+							<date>2011-03-26T13:59:19Z</date>
 						</dict>
 					</array>
 					<key>expanded</key>
@@ -135,6 +152,8 @@
 						<dict>
 							<key>filename</key>
 							<string>pages/italian/home.html</string>
+							<key>lastUsed</key>
+							<date>2011-03-26T14:06:26Z</date>
 						</dict>
 						<dict>
 							<key>filename</key>
@@ -167,7 +186,7 @@
 							<key>filename</key>
 							<string>_layouts/italian.html</string>
 							<key>lastUsed</key>
-							<date>2011-03-26T10:38:00Z</date>
+							<date>2011-03-26T12:39:48Z</date>
 						</dict>
 					</array>
 					<key>expanded</key>
@@ -186,6 +205,20 @@
 	<integer>220</integer>
 	<key>metaData</key>
 	<dict>
+		<key>_includes/home.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>11</integer>
+				<key>line</key>
+				<integer>1</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
 		<key>_layouts/common.html</key>
 		<dict>
 			<key>caret</key>
@@ -193,7 +226,7 @@
 				<key>column</key>
 				<integer>0</integer>
 				<key>line</key>
-				<integer>15</integer>
+				<integer>42</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
@@ -207,12 +240,28 @@
 				<key>column</key>
 				<integer>0</integer>
 				<key>line</key>
-				<integer>0</integer>
+				<integer>15</integer>
 			</dict>
+			<key>columnSelection</key>
+			<false/>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
+			<key>selectFrom</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>16</integer>
+			</dict>
+			<key>selectTo</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>15</integer>
+			</dict>
 		</dict>
 		<key>_layouts/italian.html</key>
 		<dict>
@@ -221,7 +270,7 @@
 				<key>column</key>
 				<integer>0</integer>
 				<key>line</key>
-				<integer>0</integer>
+				<integer>16</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
@@ -235,7 +284,7 @@
 				<key>column</key>
 				<integer>0</integer>
 				<key>line</key>
-				<integer>0</integer>
+				<integer>6</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
@@ -247,30 +296,16 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>0</integer>
+				<integer>6</integer>
 				<key>line</key>
-				<integer>0</integer>
+				<integer>50</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
-		<key>index.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>0</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>0</integer>
-		</dict>
-		<key>pages/english/cv.textile</key>
+		<key>pages/english/home.html</key>
 		<dict>
 			<key>caret</key>
 			<dict>
@@ -298,21 +333,35 @@
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
+		<key>pages/italian/home.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>6</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
 	</dict>
 	<key>openDocuments</key>
 	<array>
-		<string>_layouts/english.html</string>
-		<string>_layouts/landing.html</string>
 		<string>_layouts/common.html</string>
-		<string>pages/english/cv.textile</string>
+		<string>_layouts/landing.html</string>
+		<string>_includes/home.html</string>
+		<string>pages/italian/home.html</string>
+		<string>pages/english/home.html</string>
+		<string>_layouts/english.html</string>
 		<string>_layouts/italian.html</string>
-		<string>index.html</string>
 		<string>css/screen.css</string>
-		<string>pages/italian/cv.textile</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{347, 92}, {1102, 967}}</string>
+	<string>{{230, 4}, {1690, 1174}}</string>
 </dict>
 </plist>
