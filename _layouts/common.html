@@ -1,15 +1,38 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="{{ page.languagecode }}" lang="{{ page.languagecode }}">
 	<head>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<title>{{ page.title }}</title>
 		<meta name="author" content="Paola Di Celmo" />
-		<meta name="keywords" lang="en" content="ceramics, volcanic" />
+		<meta name="keywords" lang="{{ page.languagecode }}" content="{{ page.keywords }}" />
 		<link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection" />
 		<script type="text/javascript" src="http://use.typekit.com/hza4zwb.js"></script>
 		<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 	</head>
 	<body>
-		{{ content }}
+		<div id="banner">
+			<img id="logo" alt="{{ page.logotag }}" src="http://img.skitch.com/20110321-1wc7n2rubrus1gqadyxg1m4n6u.gif" />
+			<img id="name" alt="Paola Di Celmo" src="http://img.skitch.com/20110321-kfkqpk39e218gmt83bde8ajses.gif" />
+		</div>
+		<div id="page">
+			<div id="menu">
+				<div id="options" class="{{ page.language }}">
+					<a href="/pages/{{ page.language }}/home.html" title="{{ page.optionhome }}">{{ page.optionhome }}</a>
+					<a href="/pages/{{ page.language }}/insight.html" title="{{ page.optioninsight }}">{{ page.optioninsight }}</a>
+					<a href="/pages/{{ page.language }}/gallery.html" title="{{ page.optiongallery }}">{{ page.optiongallery }}</a>
+					<a href="/pages/{{ page.language }}/cv.html" title="{{ page.optioncv }}">{{ page.optioncv }}</a>
+					<a href="/pages/{{ page.language }}/review.html" title="{{ page.optionreview }}">{{ page.optionreview }}</a>
+					<a href="/pages/{{ page.language }}/movie.html" title="{{ page.optionmovie }}">{{ page.optionmovie }}</a>
+				</div>
+				<div id="langselect" class="{{ page.altlanguage }}">
+					<a href="/pages/{{ page.altlanguage }}/{{ page.link }}.html" title="{{ page.optionlanguage }}">{{ page.optionlanguage }}</a>
+				</div>
+			</div>
+			<div id="content" class="{{ page.language }}">
+				<div id="{{ page.link }}">
+					{{ content }}
+				</div>
+			</div>
+		</div>
 	</body>
 </html>
