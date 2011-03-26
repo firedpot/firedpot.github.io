@@ -3,37 +3,118 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>_layouts/common.html</string>
+	<string>index.html</string>
 	<key>documents</key>
 	<array>
 		<dict>
-			<key>filename</key>
-			<string>_layouts/common.html</string>
-			<key>lastUsed</key>
-			<date>2011-03-24T07:33:33Z</date>
+			<key>children</key>
+			<array>
+				<dict>
+					<key>filename</key>
+					<string>README.textile</string>
+				</dict>
+				<dict>
+					<key>filename</key>
+					<string>index.html</string>
+					<key>lastUsed</key>
+					<date>2011-03-26T10:38:00Z</date>
+				</dict>
+			</array>
+			<key>expanded</key>
+			<true/>
+			<key>name</key>
+			<string>Home</string>
 			<key>selected</key>
 			<true/>
-		</dict>
-		<dict>
-			<key>filename</key>
-			<string>css/screen.css</string>
-			<key>lastUsed</key>
-			<date>2011-03-24T07:33:33Z</date>
 		</dict>
 		<dict>
 			<key>children</key>
 			<array>
 				<dict>
 					<key>filename</key>
-					<string>_layouts/english.html</string>
+					<string>css/screen.css</string>
 					<key>lastUsed</key>
-					<date>2011-03-24T07:33:28Z</date>
+					<date>2011-03-24T07:33:33Z</date>
 				</dict>
+			</array>
+			<key>expanded</key>
+			<true/>
+			<key>name</key>
+			<string>CSS</string>
+		</dict>
+		<dict>
+			<key>children</key>
+			<array>
 				<dict>
 					<key>filename</key>
-					<string>_layouts/landing.html</string>
+					<string>_layouts/common.html</string>
 					<key>lastUsed</key>
-					<date>2011-03-24T07:33:26Z</date>
+					<date>2011-03-26T10:35:09Z</date>
+				</dict>
+			</array>
+			<key>expanded</key>
+			<true/>
+			<key>name</key>
+			<string>Common Templates</string>
+		</dict>
+		<dict>
+			<key>children</key>
+			<array>
+				<dict>
+					<key>children</key>
+					<array>
+						<dict>
+							<key>filename</key>
+							<string>pages/english/cv.textile</string>
+							<key>lastUsed</key>
+							<date>2011-03-26T10:37:18Z</date>
+						</dict>
+						<dict>
+							<key>filename</key>
+							<string>pages/english/gallery.textile</string>
+						</dict>
+						<dict>
+							<key>filename</key>
+							<string>pages/english/home.html</string>
+						</dict>
+						<dict>
+							<key>filename</key>
+							<string>pages/english/insight.html</string>
+						</dict>
+						<dict>
+							<key>filename</key>
+							<string>pages/english/movie.html</string>
+						</dict>
+						<dict>
+							<key>filename</key>
+							<string>pages/english/review.textile</string>
+						</dict>
+					</array>
+					<key>expanded</key>
+					<true/>
+					<key>name</key>
+					<string>Pages</string>
+				</dict>
+				<dict>
+					<key>children</key>
+					<array>
+						<dict>
+							<key>filename</key>
+							<string>_layouts/landing.html</string>
+							<key>lastUsed</key>
+							<date>2011-03-24T07:33:26Z</date>
+						</dict>
+						<dict>
+							<key>filename</key>
+							<string>_layouts/english.html</string>
+							<key>lastUsed</key>
+							<date>2011-03-24T07:33:28Z</date>
+						</dict>
+					</array>
+					<key>expanded</key>
+					<true/>
+					<key>name</key>
+					<string>Templates</string>
 				</dict>
 			</array>
 			<key>expanded</key>
@@ -45,16 +126,54 @@
 			<key>children</key>
 			<array>
 				<dict>
-					<key>filename</key>
-					<string>_layouts/italian.html</string>
-					<key>lastUsed</key>
-					<date>2011-03-24T07:33:25Z</date>
+					<key>children</key>
+					<array>
+						<dict>
+							<key>filename</key>
+							<string>pages/italian/gallery.html</string>
+						</dict>
+						<dict>
+							<key>filename</key>
+							<string>pages/italian/home.html</string>
+						</dict>
+						<dict>
+							<key>filename</key>
+							<string>pages/italian/insight.html</string>
+						</dict>
+						<dict>
+							<key>filename</key>
+							<string>pages/italian/movie.html</string>
+						</dict>
+						<dict>
+							<key>filename</key>
+							<string>pages/italian/review.textile</string>
+						</dict>
+						<dict>
+							<key>filename</key>
+							<string>pages/italian/cv.textile</string>
+							<key>lastUsed</key>
+							<date>2011-03-24T07:33:23Z</date>
+						</dict>
+					</array>
+					<key>expanded</key>
+					<true/>
+					<key>name</key>
+					<string>Pages</string>
 				</dict>
 				<dict>
-					<key>filename</key>
-					<string>pages/italian/cv.textile</string>
-					<key>lastUsed</key>
-					<date>2011-03-24T07:33:23Z</date>
+					<key>children</key>
+					<array>
+						<dict>
+							<key>filename</key>
+							<string>_layouts/italian.html</string>
+							<key>lastUsed</key>
+							<date>2011-03-26T10:38:00Z</date>
+						</dict>
+					</array>
+					<key>expanded</key>
+					<true/>
+					<key>name</key>
+					<string>Templates</string>
 				</dict>
 			</array>
 			<key>expanded</key>
@@ -64,7 +183,7 @@
 		</dict>
 	</array>
 	<key>fileHierarchyDrawerWidth</key>
-	<integer>200</integer>
+	<integer>220</integer>
 	<key>metaData</key>
 	<dict>
 		<key>_layouts/common.html</key>
@@ -137,6 +256,34 @@
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
+		<key>index.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>0</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>pages/english/cv.textile</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>0</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
 		<key>pages/italian/cv.textile</key>
 		<dict>
 			<key>caret</key>
@@ -157,7 +304,9 @@
 		<string>_layouts/english.html</string>
 		<string>_layouts/landing.html</string>
 		<string>_layouts/common.html</string>
+		<string>pages/english/cv.textile</string>
 		<string>_layouts/italian.html</string>
+		<string>index.html</string>
 		<string>css/screen.css</string>
 		<string>pages/italian/cv.textile</string>
 	</array>
