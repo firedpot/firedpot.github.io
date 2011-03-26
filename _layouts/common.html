@@ -28,9 +28,13 @@
 					<a href="/pages/{{ page.altlanguage }}/{{ page.link }}.html" title="{{ page.optionlanguage }}">{{ page.optionlanguage }}</a>
 				</div>
 			</div>
-			<div id="content" class="{{ page.language }}">
+			<div id="content">
 				<div id="{{ page.link }}">
-					{{ content }}
+
+<!-- Begin page content -->
+{{ content }}
+<!-- End page content -->
+
 				</div>
 			</div>
 		</div>
