@@ -24,7 +24,7 @@ body {
 
 #content {
 	display: inline-block;
-	margin-left: 95px;
+	margin-left: 35px;
 	color: black;
 }
 
@@ -38,10 +38,9 @@ body {
 }
 
 #menu {
-	width: 90px;
+	width: 150px;
 	display: inline-block;
 	float: left;
-	background-color: black;
 }
 
 #menu a {
