@@ -37,45 +37,32 @@ body {
 	width: 150px;
 	display: inline-block;
 	float: left;
-	font: "ff-cocon-web-pro-1","ff-cocon-web-pro-2",sans-serif;
-	font-size: 1.2em;
 }
 
 ul {
 	list-style-type: none;
+}
+
+a {
+	font: "ff-cocon-web-pro-1", "ff-cocon-web-pro-2", sans-serif;
+	font-size: 1.2em;
 	text-decoration: none;
 }
 
-.english a:link {
+.english a {
 	color: #4ee5d9;
 }
 
-.english a:active {
-	color: #4ee5d9;
+a:hover {
+	text-decoration: underline;
 }
 
-.english a:visited {
-	color: #4ee5d9;
-}
-
-.english a:hover {
-	color: #4ee5d9;
-}
-
-.italian a:link {
-	color: teal;
-}
-
-.italian a:active {
-	color: teal;
-}
-
-.italian a:visited {
+.italian a {
 	color: teal;
 }
 
 .italian a:hover {
-	color: teal;
+	text-decoration: underline;
 }
 
 h1 {
