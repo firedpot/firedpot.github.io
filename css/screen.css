@@ -42,6 +42,7 @@ body {
 #menu a {
 	font-size: 1em;
 	text-decoration: none;
+	display: block;
 }
 
 .english a {
