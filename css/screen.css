@@ -1,3 +1,5 @@
+/* @override http://firedpot.github.com/css/screen.css */
+
 body {
 	background-color: #7c7c7c;
 	width: 750px;
@@ -50,6 +52,10 @@ body {
 
 #menu a:hover {
 	text-decoration: underline;
+}
+
+h1:first-child {
+	margin-top: 0;
 }
 
 h1 {
