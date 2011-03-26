@@ -12,6 +12,10 @@ body {
 	margin-top: 5%;
 }
 
+#page {
+	margin-bottom: 5%;
+}
+
 .english a, .english #frontpage p {
 	color: #4ee5d9;
 }
@@ -59,6 +63,8 @@ h1:first-child {
 }
 
 h1 {
+	font-size: 1.2em;
+	margin-bottom: 1.2em;
 	font-weight: bold;
 	font-variant: small-caps;
 	border-bottom: thin solid silver;
