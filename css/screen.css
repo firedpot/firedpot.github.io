@@ -3,6 +3,7 @@ body {
 	width: 750px;
 	margin: auto;
 	font-family: Verdana, Arial, sans-serif;
+	font-size: 1.2em;
 }
 
 #banner, #page {
@@ -10,7 +11,6 @@ body {
 }
 
 #frontpage {
-	font-weight: bold;
 	text-align: center;
 }
 
@@ -36,7 +36,6 @@ body {
 }
 
 #menu a {
-	font-size: 1em;
 	text-decoration: none;
 	display: block;
 }
@@ -45,15 +44,11 @@ body {
 	color: #4ee5d9;
 }
 
-a:hover {
-	text-decoration: underline;
-}
-
 .italian a {
 	color: teal;
 }
 
-.italian a:hover {
+a:hover {
 	text-decoration: underline;
 }
 
