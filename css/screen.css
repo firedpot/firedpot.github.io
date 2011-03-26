@@ -43,9 +43,8 @@ ul {
 	list-style-type: none;
 }
 
-a {
-	font: "ff-cocon-web-pro-1", "ff-cocon-web-pro-2", sans-serif;
-	font-size: 1.2em;
+#menu a {
+	font-size: 1em;
 	text-decoration: none;
 }
 
