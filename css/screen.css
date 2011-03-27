@@ -2,7 +2,7 @@
 
 body {
 	background-color: #7c7c7c;
-	width: 750px;
+	width: 680px;
 	margin: auto;
 	font: 1.2em/1.2em Verdana, Arial, sans-serif;
 }
@@ -30,21 +30,16 @@ body {
 #content {
 	display: inline-block;
 	color: black;
-	position: fixed;
-	width: 500px;
-}
-
-#logo {
-	display: inline-block;
+	width: 510px;
+	float: left;
 }
 
 #name {
-	display: inline-block;
-	float: right;
+	padding-left: 60px;
 }
 
 #menu {
-	width: 185px;
+	width: 170px;
 	display: inline-block;
 	float: left;
 }
