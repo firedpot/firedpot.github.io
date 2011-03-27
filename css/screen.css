@@ -39,9 +39,10 @@ body {
 }
 
 #menu {
-	width: 170px;
+	width: 160px;
 	display: inline-block;
 	float: left;
+	padding-left: 10px;
 }
 
 #menu a {
