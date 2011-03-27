@@ -4,7 +4,7 @@ body {
 	background-color: #7c7c7c;
 	width: 680px;
 	margin: auto;
-	font: 1.2em/1.2em Verdana, Arial, sans-serif;
+	font: 1em/1.2em Verdana, Arial, sans-serif;
 }
 
 #banner, #page {
@@ -43,6 +43,8 @@ body {
 	display: inline-block;
 	float: left;
 	padding-left: 10px;
+	font-size: 1.2em;
+	line-height: 1.2em;
 }
 
 #menu a {
@@ -59,11 +61,19 @@ h1:first-child {
 }
 
 h1 {
-	font-size: 1.2em;
-	margin-bottom: 0.6em;
+	font-size: 1em;
 	font-weight: bold;
-	font-variant: small-caps;
 	border-bottom: thin solid silver;
+	padding-bottom: 0.1em;
+	margin-bottom: 0.4em;
+	line-height: 1.2em;
+}
+
+h2 {
+	font-size: 1em;
+	margin-bottom: 0;
+	font-weight: bold;
+	line-height: 1.2em;
 }
 
 #cv {
