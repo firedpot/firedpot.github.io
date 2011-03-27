@@ -16,11 +16,11 @@ body {
 	margin-top: 5%;
 }
 
-.english a, .english #frontpage p {
+.english a, .english #frontpage, #copyright.english {
 	color: #4ee5d9;
 }
 
-.italian a, .italian #frontpage p {
+.italian a, .italian #frontpage, #copyright.italian {
 	color: teal;
 }
 
@@ -60,7 +60,7 @@ body {
 #copyright {
 	font-size: 0.5em;
 	line-height: 0.5em;
-	margin-top: 2em;
+	margin-top: 4em;
 }
 
 h1:first-child {
