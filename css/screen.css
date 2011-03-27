@@ -66,6 +66,10 @@ h1 {
 	border-bottom: thin solid silver;
 }
 
+#cv {
+	width: 500px;
+}
+
 #cv tr td:first-child {
 	width: 80px;
 }
