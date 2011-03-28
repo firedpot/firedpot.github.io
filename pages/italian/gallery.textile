@@ -1,6 +1,6 @@
 ---
 layout: italian
-title: Paola Di Celmo - Gallery
+title: Paola Di Celmo - Galleria
 link: gallery
 ---
 {% include gallery.textile %}

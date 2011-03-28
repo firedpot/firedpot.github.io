@@ -1,5 +1,5 @@
 ---
 layout: italian
-title: Paola Di Celmo - Review
+title: Paola Di Celmo - Rassegna
 link: review
 ---
