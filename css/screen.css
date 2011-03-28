@@ -33,10 +33,15 @@ body {
 	color: black;
 	width: 510px;
 	float: left;
+	margin-bottom: 5%;
 }
 
 #name {
 	padding-left: 60px;
+}
+
+img {
+	border: 0
 }
 
 #menu {
@@ -48,8 +53,11 @@ body {
 	line-height: 1.4;
 }
 
-#menu a {
+a {
 	text-decoration: none;
+}
+
+#menu a {
 	display: block;
 }
 
@@ -83,9 +91,8 @@ h2 {
 	font-weight: bold;
 }
 
-#cv {
+#cv, #gallery {
 	width: 500px;
-	margin-bottom: 5%;
 }
 
 #cv td:first-child {
@@ -94,4 +101,17 @@ h2 {
 
 td {
 	vertical-align: top;
+}
+
+#gallery td {
+	width: 125px;
+	align: centre;
+}
+
+#gallery td:first-child {
+	align: left;
+}
+
+#gallery td:last-child {
+	align: right;
 }

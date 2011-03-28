@@ -3,3 +3,4 @@ layout: italian
 title: Paola Di Celmo - Gallery
 link: gallery
 ---
+{% include gallery.textile %}

@@ -3,10 +3,4 @@ layout: english
 title: Paola Di Celmo - Gallery
 link: gallery
 ---
-
-| !http://img.skitch.com/20110321-1iwskwn46enn8tiiy555strnq7.jpg! | !http://img.skitch.com/20110321-1iwskwn46enn8tiiy555strnq7.jpg! | !http://img.skitch.com/20110321-1iwskwn46enn8tiiy555strnq7.jpg! |
-| !http://img.skitch.com/20110321-1iwskwn46enn8tiiy555strnq7.jpg! | !http://img.skitch.com/20110321-1iwskwn46enn8tiiy555strnq7.jpg! | !http://img.skitch.com/20110321-1iwskwn46enn8tiiy555strnq7.jpg! |
-| !http://img.skitch.com/20110321-1iwskwn46enn8tiiy555strnq7.jpg! | !http://img.skitch.com/20110321-1iwskwn46enn8tiiy555strnq7.jpg! | !http://img.skitch.com/20110321-1iwskwn46enn8tiiy555strnq7.jpg! |
-| !http://img.skitch.com/20110321-1iwskwn46enn8tiiy555strnq7.jpg! | !http://img.skitch.com/20110321-1iwskwn46enn8tiiy555strnq7.jpg! | !http://img.skitch.com/20110321-1iwskwn46enn8tiiy555strnq7.jpg! |
-| !http://img.skitch.com/20110321-1iwskwn46enn8tiiy555strnq7.jpg! | !http://img.skitch.com/20110321-1iwskwn46enn8tiiy555strnq7.jpg! | !http://img.skitch.com/20110321-1iwskwn46enn8tiiy555strnq7.jpg! |
-| !http://img.skitch.com/20110321-1iwskwn46enn8tiiy555strnq7.jpg! | !http://img.skitch.com/20110321-1iwskwn46enn8tiiy555strnq7.jpg! | !http://img.skitch.com/20110321-1iwskwn46enn8tiiy555strnq7.jpg! |
+{% include gallery.textile %}
