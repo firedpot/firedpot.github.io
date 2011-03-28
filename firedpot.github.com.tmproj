@@ -2,8 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>currentDocument</key>
-	<string>css/screen.css</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -17,7 +15,13 @@
 					<key>filename</key>
 					<string>index.html</string>
 					<key>lastUsed</key>
-					<date>2011-03-26T12:37:25Z</date>
+					<date>2011-03-28T21:23:01Z</date>
+				</dict>
+				<dict>
+					<key>filename</key>
+					<string>_config.yml</string>
+					<key>lastUsed</key>
+					<date>2011-03-28T21:45:19Z</date>
 				</dict>
 			</array>
 			<key>expanded</key>
@@ -32,9 +36,7 @@
 					<key>filename</key>
 					<string>css/screen.css</string>
 					<key>lastUsed</key>
-					<date>2011-03-26T14:09:46Z</date>
-					<key>selected</key>
-					<true/>
+					<date>2011-03-28T21:43:50Z</date>
 				</dict>
 			</array>
 			<key>expanded</key>
@@ -49,7 +51,23 @@
 					<key>filename</key>
 					<string>_includes/home.html</string>
 					<key>lastUsed</key>
-					<date>2011-03-26T14:05:33Z</date>
+					<date>2011-03-28T21:43:46Z</date>
+				</dict>
+				<dict>
+					<key>expanded</key>
+					<true/>
+					<key>name</key>
+					<string>gallery</string>
+					<key>regexFolderFilter</key>
+					<string>!.*/(\.[^/]*|CVS|_darcs|_MTN|\{arch\}|blib|.*~\.nib|.*\.(framework|app|pbproj|pbxproj|xcode(proj)?|bundle))$</string>
+					<key>sourceDirectory</key>
+					<string>_includes/gallery</string>
+				</dict>
+				<dict>
+					<key>filename</key>
+					<string>_includes/gallery.textile</string>
+					<key>lastUsed</key>
+					<date>2011-03-28T21:45:33Z</date>
 				</dict>
 			</array>
 			<key>expanded</key>
@@ -64,13 +82,15 @@
 					<key>filename</key>
 					<string>_layouts/common.html</string>
 					<key>lastUsed</key>
-					<date>2011-03-26T14:09:46Z</date>
+					<date>2011-03-28T21:21:31Z</date>
 				</dict>
 			</array>
 			<key>expanded</key>
 			<true/>
 			<key>name</key>
 			<string>Common Templates</string>
+			<key>selected</key>
+			<true/>
 		</dict>
 		<dict>
 			<key>children</key>
@@ -92,7 +112,7 @@
 							<key>filename</key>
 							<string>pages/english/home.html</string>
 							<key>lastUsed</key>
-							<date>2011-03-26T14:06:17Z</date>
+							<date>2011-03-28T21:43:48Z</date>
 						</dict>
 						<dict>
 							<key>filename</key>
@@ -105,6 +125,16 @@
 						<dict>
 							<key>filename</key>
 							<string>pages/english/review.textile</string>
+						</dict>
+						<dict>
+							<key>expanded</key>
+							<true/>
+							<key>name</key>
+							<string>gallery</string>
+							<key>regexFolderFilter</key>
+							<string>!.*/(\.[^/]*|CVS|_darcs|_MTN|\{arch\}|blib|.*~\.nib|.*\.(framework|app|pbproj|pbxproj|xcode(proj)?|bundle))$</string>
+							<key>sourceDirectory</key>
+							<string>pages/english/gallery</string>
 						</dict>
 					</array>
 					<key>expanded</key>
@@ -119,13 +149,13 @@
 							<key>filename</key>
 							<string>_layouts/landing.html</string>
 							<key>lastUsed</key>
-							<date>2011-03-26T14:06:15Z</date>
+							<date>2011-03-28T21:43:45Z</date>
 						</dict>
 						<dict>
 							<key>filename</key>
 							<string>_layouts/english.html</string>
 							<key>lastUsed</key>
-							<date>2011-03-26T13:59:19Z</date>
+							<date>2011-03-28T21:43:49Z</date>
 						</dict>
 					</array>
 					<key>expanded</key>
@@ -147,13 +177,9 @@
 					<array>
 						<dict>
 							<key>filename</key>
-							<string>pages/italian/gallery.html</string>
-						</dict>
-						<dict>
-							<key>filename</key>
 							<string>pages/italian/home.html</string>
 							<key>lastUsed</key>
-							<date>2011-03-26T14:06:26Z</date>
+							<date>2011-03-28T21:43:48Z</date>
 						</dict>
 						<dict>
 							<key>filename</key>
@@ -173,6 +199,20 @@
 							<key>lastUsed</key>
 							<date>2011-03-24T07:33:23Z</date>
 						</dict>
+						<dict>
+							<key>expanded</key>
+							<true/>
+							<key>name</key>
+							<string>gallery</string>
+							<key>regexFolderFilter</key>
+							<string>!.*/(\.[^/]*|CVS|_darcs|_MTN|\{arch\}|blib|.*~\.nib|.*\.(framework|app|pbproj|pbxproj|xcode(proj)?|bundle))$</string>
+							<key>sourceDirectory</key>
+							<string>pages/italian/gallery</string>
+						</dict>
+						<dict>
+							<key>filename</key>
+							<string>pages/italian/gallery.textile</string>
+						</dict>
 					</array>
 					<key>expanded</key>
 					<true/>
@@ -186,7 +226,7 @@
 							<key>filename</key>
 							<string>_layouts/italian.html</string>
 							<key>lastUsed</key>
-							<date>2011-03-26T12:39:48Z</date>
+							<date>2011-03-28T21:43:50Z</date>
 						</dict>
 					</array>
 					<key>expanded</key>
@@ -205,120 +245,6 @@
 	<integer>220</integer>
 	<key>metaData</key>
 	<dict>
-		<key>_includes/home.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>11</integer>
-				<key>line</key>
-				<integer>1</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>0</integer>
-		</dict>
-		<key>_layouts/common.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>42</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>0</integer>
-		</dict>
-		<key>_layouts/english.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>15</integer>
-			</dict>
-			<key>columnSelection</key>
-			<false/>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>0</integer>
-			<key>selectFrom</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>16</integer>
-			</dict>
-			<key>selectTo</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>15</integer>
-			</dict>
-		</dict>
-		<key>_layouts/italian.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>16</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>0</integer>
-		</dict>
-		<key>_layouts/landing.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>6</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>0</integer>
-		</dict>
-		<key>css/screen.css</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>6</integer>
-				<key>line</key>
-				<integer>50</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>0</integer>
-		</dict>
-		<key>pages/english/home.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>0</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>0</integer>
-		</dict>
 		<key>pages/italian/cv.textile</key>
 		<dict>
 			<key>caret</key>
@@ -333,35 +259,10 @@
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
-		<key>pages/italian/home.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>6</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>0</integer>
-		</dict>
 	</dict>
-	<key>openDocuments</key>
-	<array>
-		<string>_layouts/common.html</string>
-		<string>_layouts/landing.html</string>
-		<string>_includes/home.html</string>
-		<string>pages/italian/home.html</string>
-		<string>pages/english/home.html</string>
-		<string>_layouts/english.html</string>
-		<string>_layouts/italian.html</string>
-		<string>css/screen.css</string>
-	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{230, 4}, {1690, 1174}}</string>
+	<string>{{223, 4}, {1047, 774}}</string>
 </dict>
 </plist>
