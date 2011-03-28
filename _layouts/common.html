@@ -5,7 +5,7 @@
 		<title>{{ page.title }}</title>
 		<meta name="author" content="Paola Di Celmo" />
 		<meta name="keywords" lang="{{ page.languagecode }}" content="{{ page.keywords }}" />
-		<link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection" />
+		<link rel="stylesheet" href="{{ page.baseurl }}../../css/screen.css" type="text/css" media="screen, projection" />
 		<script type="text/javascript" src="http://use.typekit.com/hza4zwb.js"></script>
 		<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 	</head>
@@ -17,15 +17,15 @@
 		<div id="page">
 			<div id="menu">
 				<div id="options" class="{{ page.language }}">
-					<a href="/pages/{{ page.language }}/home.html">{{ page.optionhome }}</a>
-					<a href="/pages/{{ page.language }}/insight.html">{{ page.optioninsight }}</a>
-					<a href="/pages/{{ page.language }}/gallery.html">{{ page.optiongallery }}</a>
-					<a href="/pages/{{ page.language }}/cv.html">{{ page.optioncv }}</a>
-					<a href="/pages/{{ page.language }}/review.html">{{ page.optionreview }}</a>
-					<a href="/pages/{{ page.language }}/movie.html">{{ page.optionmovie }}</a>
+					<a href="{{ page.baseurl }}home.html">{{ page.optionhome }}</a>
+					<a href="{{ page.baseurl }}insight.html">{{ page.optioninsight }}</a>
+					<a href="{{ page.baseurl }}gallery.html">{{ page.optiongallery }}</a>
+					<a href="{{ page.baseurl }}cv.html">{{ page.optioncv }}</a>
+					<a href="{{ page.baseurl }}review.html">{{ page.optionreview }}</a>
+					<a href="{{ page.baseurl }}movie.html">{{ page.optionmovie }}</a>
 				</div>
 				<div id="langselect" class="{{ page.altlanguage }}">
-					<a href="/pages/{{ page.altlanguage }}/{{ page.link }}.html">{{ page.optionlanguage }}</a>
+					<a href="{{ page.baseurl }}../{{ page.altlanguage }}/{{ page.link }}.html">{{ page.optionlanguage }}</a>
 				</div>
 				<div id="copyright" class="{{ page.language }}">
 					<p>Copyright &#169; 2011</p>
