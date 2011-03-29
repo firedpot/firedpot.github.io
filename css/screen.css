@@ -105,13 +105,4 @@ td {
 
 #gallery td {
 	width: 125px;
-	align: centre;
-}
-
-#gallery td:first-child {
-	align: left;
-}
-
-#gallery td:last-child {
-	align: right;
 }
