@@ -8,7 +8,7 @@ html, body {
 
 #site {
 	width: 664px;
-	margin: 0 auto;
+	margin: auto;
 }
 
 #site, h1, h2 {
@@ -76,18 +76,14 @@ h1 {
 }
 
 #gallery td {
-	width: 131px;
+	width: 100px;
 	text-align: center;
 }
 
-#gallery td:first-child, #gallery td:last-child {
-	width: 111px;
+#gallery tr {
+	padding-top: 26px;
 }
 
-#gallery td:first-child {
-	text-align: left;
-}
-
-#gallery td:last-child {
-	text-align: right;
+.gallery2, .gallery3, .gallery4 {
+	padding-left: 26px;
 }

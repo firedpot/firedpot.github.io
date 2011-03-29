@@ -24,4 +24,6 @@ h2 {
 	
 td {
 	vertical-align: top;
+	margin: 0;
+	padding: 0;
 }
