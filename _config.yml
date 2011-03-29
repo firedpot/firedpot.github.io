@@ -1,2 +1,2 @@
-exclude: firedpot.github.com.tmproj README.textile
+exclude: ['firedpot.github.com.tmproj', 'README.textile']
 auto: true

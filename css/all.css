@@ -1,0 +1,27 @@
+#site {
+	font-family: Verdana, Arial, sans-serif;
+}
+
+img {
+	border: 0
+}
+
+a {
+	text-decoration: none;
+}
+
+h1:first-child {
+	margin-top: 0;
+}
+
+h1, h2 {
+	font-weight: bold;
+}
+
+h2 {
+	margin-bottom: 0;
+}
+	
+td {
+	vertical-align: top;
+}

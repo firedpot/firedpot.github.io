@@ -1,0 +1,22 @@
+#site, h1, h2 {
+	font-size: 12pt;
+	line-height: 1.2;
+}
+
+#page {
+	margin-top: 5%;
+}
+
+#frontpage p {
+	text-align: center;
+}
+
+#menu {
+	visibility: hidden;
+}
+
+h1 {
+	border-bottom: thin solid silver;
+	padding-bottom: 1pt;
+	margin-bottom: 5pt;
+}
