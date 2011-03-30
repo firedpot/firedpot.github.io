@@ -6,10 +6,10 @@ link: cv
 
 h1. Education
 
-| 2004 | BTEC Professional Development Diploma in Fine Art |
+| 2004 | BTEC Professional Development Diploma Fine Art |
 | 2003 | BTEC Professional Development Certificate Ceramics |
-| 2002 | BTEC High National Certificate Art and Design Ceramics pathway |
-| 2001 | BTEC National Certificate Art and Design Ceramics pathway |
+| 2002 | BTEC High National Certificate Art and Design Ceramics Pathway |
+| 2001 | BTEC National Certificate Art and Design Ceramics Pathway |
 | 2000 | LOCON Introduction to Art and design Ceramics |
 | 2000 | LOCON Introduction to Art and Design Navigating the Internet |
 | 2000 | LOCON Introduction to Art and Design Creating a Web Page |
@@ -21,29 +21,29 @@ h1. Professional Development
 
 h2. Assistant to:
 
-| 2002/04 | Nic Collins: Wood firing and kiln building in Anagama kiln |
-| 2002/04 | Svend Bayer: Wood firing in Anagama kiln |
-| 2002/08 | Marta Donaghey: For Contemporary Ceramics and Craft Potter Association |
+| 2002/04 | Nic Collins: Wood firing and kiln building in anagama kiln |
+| 2002/04 | Svend Bayer: Wood firing in anagama kiln |
+| 2002/08 | Marta Donaghey: For _Contemporary Ceramics_ and _Craft Potter Association_ |
 
 h2. Rococo Chocolate:
 
 | 12/2002 | Ceramics window display and installation |
-| 2003/04 | Design Mugs for hot chocolate |
+| 2003/04 | Design mugs for hot chocolate |
 
 h1. Exhibitions
 
-| 1999/00 | Student ceramics exhibition at Kensington and Chelsea College |
-| 2000/01 | Student ceramics exhibition at South Thames College |
-| 2001/02 | Student ceramics exhibition at South Thames College |
-| 12/2002 | Group exhibition Westcott Gallery, Surrey |
-| 12/2002 | "Rococo Chocolate" Kings Road, London Solo exhibition |
-| 06/2003 | "Midland Grand" St. Pancreas Station, London |
-| 12/2003 | Group exhibition Westcott Gallery, Surrey |
-| 03/2004 | "Santa Maria La Nova", Chiostro della Provincia, Naples Italy |
-| 07/2004 | Finale Ceramics at Roehampton centre London |
-| 12/2004 | "OBJETS D'ART" French house, London |
-| 12/2004 | Open studio "Christmas sale" Iliffe yard, London |
-| 11/2005 | "Santa Maria La Nova" Chiostro della Provincia, Naples Italy |
-| 12/2005 | Open studio "Christmas sale" Iliffe yard, London |
-| 05/2006 | Solo Show "Many Design gallery" Naples, Italy |
+| 1999/00 | Student ceramics exhibition at _Kensington and Chelsea College_ |
+| 2000/01 | Student ceramics exhibition at _South Thames College_ |
+| 2001/02 | Student ceramics exhibition at _South Thames College_ |
+| 12/2002 | Group exhibition at _Westcott Gallery_, Surrey |
+| 12/2002 | Solo exhibition at _Rococo Chocolate_, Kings Road, London  |
+| 06/2003 | _Midland Grand_, St. Pancras Station, London |
+| 12/2003 | Group exhibition at _Westcott Gallery_, Surrey |
+| 03/2004 | _Santa Maria La Nova_, Chiostro della Provincia, Naples Italy |
+| 07/2004 | _Finale Ceramics_ at _Roehampton Centre_, London |
+| 12/2004 | _Objets d'Art_ at _French House_, London |
+| 12/2004 | Open studio Christmas sale at _Iliffe Yard_, London |
+| 11/2005 | _Santa Maria La Nova_, Chiostro della Provincia, Naples Italy |
+| 12/2005 | Open studio Christmas sale at _Iliffe Yard_, London |
+| 05/2006 | Solo Show at _Many Design gallery_, Naples, Italy |
 | 2007/09 | Private commission and research, London & Italy |
