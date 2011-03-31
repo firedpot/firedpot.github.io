@@ -7,7 +7,7 @@ html, body {
 }
 
 #site {
-	width: 664px;
+	width: 665px;
 	margin: auto;
 }
 
@@ -20,21 +20,29 @@ html, body {
 	margin-top: 5%;
 }
 
-.english a, .english #frontpage, #copyright.english {
+.english a, #home.english, #copyright.english {
 	color: #75c4cc;
 }
 
-.italian a, .italian #frontpage, #copyright.italian {
+.italian a, #home.italian, #copyright.italian {
 	color: #bda17a;
 }
 
-#frontpage p {
+#home img {
+	padding-right: 5px;
+}
+
+#insight img {
+	padding-right: 1px;
+}
+
+#home p {
 	text-align: center;
 }
 
 #content {
 	color: black;
-	width: 504px;
+	width: 505px;
 	float: right;
 	margin-bottom: 5%;
 }
@@ -53,6 +61,7 @@ html, body {
 
 #menu a {
 	display: block;
+	letter-spacing: 0.05em;
 }
 
 #menu a:hover {
@@ -86,7 +95,7 @@ h1 {
 }
 
 #gallery td {
-	padding-left: 30px;
+	padding-left: 35px;
 }
 
 #gallery td:first-child {
