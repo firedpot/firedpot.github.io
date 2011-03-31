@@ -90,16 +90,13 @@ h1 {
 	width: 100px;
 	text-align: center;
 	padding-top: 25px;
+	padding-left: 35px;
 }
 
 #gallery tr:first-child td {
 	padding-top: 0;
 }
 
-#gallery td {
-	padding-left: 35px;
-}
-
 #gallery td:first-child {
-	padding-left: 0px;
+	padding-left: 0;
 }
