@@ -1,18 +1,17 @@
 #site, h1, h2 {
-	font-size: 12pt;
+	font-size: 10pt;
 	line-height: 1.2;
 }
 
-#page {
-	margin-top: 5%;
-}
-
-#frontpage p {
-	text-align: center;
+#banner, #page {
+	margin: 0;
+	padding: 0;
 }
 
 #menu {
 	visibility: hidden;
+	height: 0;
+	width: 0;
 }
 
 h1 {
