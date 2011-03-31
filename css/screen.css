@@ -45,6 +45,7 @@ html, body {
 	width: 505px;
 	float: right;
 	margin-bottom: 5%;
+	overflow: hidden;
 }
 
 #name {
@@ -57,6 +58,7 @@ html, body {
 	padding-left: 10px;
 	font-size: 1.3em;
 	line-height: 1.4;
+	overflow: hidden;
 }
 
 #menu a {
