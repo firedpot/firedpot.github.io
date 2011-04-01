@@ -6,6 +6,12 @@ html, body, div {
 	padding: 0;
 }
 
+.print {
+	visibility: hidden;
+	height: 0;
+	width: 0;
+}
+
 #site {
 	width: 665px;
 	margin: 0 auto;
@@ -93,7 +99,7 @@ h2 {
 }
 
 #cv td:first-child {
-	width: 4em;
+	width: 5em;
 }
 
 #gallery td {

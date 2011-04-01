@@ -4,6 +4,14 @@ title: Paola Di Celmo - CV
 link: cv
 ---
 
+h1. Personal
+
+<div class="print">
+| Web | www.firedpot.com |
+</div>
+| Email | "paola@firedpot.com":mailto:paola@firedpot.com |
+| Nationality | Italian |
+
 h1. Education
 
 | 2004 | BTEC Professional Development Diploma Fine Art |
@@ -16,7 +24,7 @@ h1. Education
 
 h1. Professional Development
 
-| 2001/04 | Maze Hill Pottery: Apprentice to Lisa Hammond |
+| 2001 to 04 | Maze Hill Pottery: Apprentice to Lisa Hammond |
 | | Throwing, firing, glazing, exhibiting, kiln building, selling |
 
 h2. Assistant to:
