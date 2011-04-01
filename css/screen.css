@@ -1,6 +1,6 @@
 /* @override http://firedpot.github.com/css/screen.css */
 
-html, body {
+html, body, div {
 	background-color: #7c7c7c;
 	margin: 0;
 	padding: 0;
@@ -8,7 +8,7 @@ html, body {
 
 #site {
 	width: 665px;
-	margin: auto;
+	margin: 0 auto;
 }
 
 #site, h1, h2 {
@@ -29,11 +29,11 @@ html, body {
 }
 
 #home img {
-	padding-right: 5px;
+	padding: 0 5px 0 0;
 }
 
 #insight img {
-	padding-right: 1px;
+	padding: 0 1px 0 0;
 }
 
 #home p {
@@ -78,8 +78,18 @@ html, body {
 
 h1 {
 	border-bottom: thin solid silver;
-	padding-bottom: 0.1em;
-	margin-bottom: 0.4em;
+	padding: 0 0 0.1em 0;
+	margin: 1.2em 0 0.4em 0;
+}
+
+h1:first-child {
+	padding: 0 0 0.1em 0;
+	margin: 0 0 0.4em 0;
+}
+
+h2 {
+	padding: 0;
+	margin: 1.2em 0 0 0;
 }
 
 #cv td:first-child {
