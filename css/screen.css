@@ -1,9 +1,10 @@
-/* @override http://firedpot.github.com/css/screen.css */
+/* @override 
+	http://firedpot.com/css/screen.css
+*/
 
-html, body, div {
+html {
 	background-color: #7c7c7c;
-	margin: 0;
-	padding: 0;
+	overflow-y: scroll;
 }
 
 .print {
@@ -34,14 +35,6 @@ html, body, div {
 	color: #bda17a;
 }
 
-#home img {
-	padding: 0 5px 0 0;
-}
-
-#insight img {
-	padding: 0 1px 0 0;
-}
-
 #home p {
 	text-align: center;
 }
@@ -51,7 +44,6 @@ html, body, div {
 	width: 505px;
 	float: right;
 	margin-bottom: 5%;
-	overflow: hidden;
 }
 
 #name {
@@ -89,24 +81,21 @@ h1 {
 }
 
 h1:first-child {
-	padding: 0 0 0.1em 0;
 	margin: 0 0 0.4em 0;
 }
 
 h2 {
-	padding: 0;
 	margin: 1.2em 0 0 0;
 }
 
 #cv td:first-child {
-	width: 5em;
+	width: 5.2em;
 }
 
 #gallery td {
 	width: 100px;
 	text-align: center;
-	padding-top: 25px;
-	padding-left: 35px;
+	padding: 25px 0 0 35px;
 }
 
 #gallery tr:first-child td {
