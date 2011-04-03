@@ -24,7 +24,7 @@ html {
 }
 
 #banner, #page {
-	margin-top: 5%;
+	padding-top: 5%;
 }
 
 .english a, #home.english, #copyright.english {
@@ -35,7 +35,7 @@ html {
 	color: #bda17a;
 }
 
-#home p {
+#home {
 	text-align: center;
 }
 
@@ -43,7 +43,7 @@ html {
 	color: black;
 	width: 505px;
 	float: right;
-	margin-bottom: 5%;
+	padding-bottom: 5%;
 }
 
 #name {
@@ -54,7 +54,7 @@ html {
 	width: 150px;
 	float: left;
 	padding-left: 10px;
-	font-size: 1.3em;
+	font-size: 1em;
 	line-height: 1.4;
 	overflow: hidden;
 }
