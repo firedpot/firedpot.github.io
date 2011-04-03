@@ -2,6 +2,7 @@
 layout: english
 title: Paola Di Celmo - CV
 link: cv
+class: cv
 ---
 
 h1. Personal

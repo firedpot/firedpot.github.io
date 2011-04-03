@@ -2,5 +2,6 @@
 layout: italian
 title: Paola Di Celmo - Galleria
 link: gallery
+class: gallery
 ---
 {% include gallery.textile %}
