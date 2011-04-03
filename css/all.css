@@ -1,3 +1,5 @@
+/* @override http://firedpot.com/css/all.css */
+
 #site, #copyright {
 	font-family: "myriad-pro-1", "myriad-pro-2", Verdana, Arial, sans-serif;
 }
@@ -18,9 +20,12 @@ h1, h2 {
 	font-weight: bold;
 }
 
-td {
-	vertical-align: top;
+td, p {
 	margin: 0;
 	padding: 0;
+}
+
+td {
 	border-spacing: 0;
+	vertical-align: top;
 }

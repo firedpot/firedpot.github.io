@@ -21,11 +21,6 @@ p, h1, h2 {
 	line-height: 1.2;
 }
 
-p {
-	padding: 0;
-	margin: 0;
-}
-
 #banner, #page {
 	padding-top: 5%;
 }
