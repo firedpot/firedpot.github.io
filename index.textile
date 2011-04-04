@@ -3,5 +3,6 @@ layout: english
 title: Volcanic Ceramic by Paola Di Celmo
 link: home
 class: home
+baseurl: pages/english/
 ---
-{% include home.html %}
+{% include home.textile %}
