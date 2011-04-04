@@ -1,11 +1,5 @@
 #site, h1, h2 {
 	font-size: 12pt;
-	line-height: 1.2;
-}
-
-#banner, #page {
-	margin: 0;
-	padding: 0;
 }
 
 #menu {

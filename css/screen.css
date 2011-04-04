@@ -11,6 +11,14 @@ html {
 	width: 0;
 }
 
+#site, #copyright {
+	font-family: "myriad-pro-1", "myriad-pro-2", Verdana, Arial, sans-serif;
+}
+
+#menu, #home {
+	font-family: "ff-cocon-web-pro-1", "ff-cocon-web-pro-2", Verdana, Arial, sans-serif;
+}
+
 #site {
 	width: 665px;
 	margin: 0 auto;
@@ -18,7 +26,6 @@ html {
 
 p, h1, h2 {
 	font-size: 1em;
-	line-height: 1.2;
 }
 
 #banner, #page {
