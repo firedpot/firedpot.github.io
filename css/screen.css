@@ -77,18 +77,17 @@ p, h1, h2 {
 	margin-top: 4em;
 }
 
+h1, h2 {
+	margin-top: 1.2em;
+}
+
 h1 {
 	border-bottom: thin solid silver;
-	padding: 0 0 0.1em 0;
-	margin: 1.2em 0 0.4em 0;
+	margin-bottom: 0.4em;
 }
 
 h1:first-child {
-	margin: 0 0 0.4em 0;
-}
-
-h2 {
-	margin: 1.2em 0 0 0;
+	margin-top: 0;
 }
 
 #cv td:first-child {

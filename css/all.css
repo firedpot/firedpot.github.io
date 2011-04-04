@@ -4,6 +4,10 @@ a {
 	text-decoration: none;
 }
 
+p, h1, h2, #cv td {
+	line-height: 1.2;
+}
+	
 h1, h2 {
 	font-weight: bold;
 }
