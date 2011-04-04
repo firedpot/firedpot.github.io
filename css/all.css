@@ -1,6 +1,6 @@
 /* @override http://firedpot.com/css/all.css */
 
-a {
+a, acronym {
 	text-decoration: none;
 }
 

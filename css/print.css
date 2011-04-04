@@ -6,12 +6,12 @@
 
 p, h1, h2, td {
 	font-family: Verdana, Arial, sans-serif;
-	font-size: 12pt;
-	line-height: 14pt;
+	font-size: 10pt;
+	line-height: 12pt;
 }
 
 h1, h2 {
-	margin-top: 14pt;
+	margin-top: 12pt;
 }
 
 h1:first-child {
