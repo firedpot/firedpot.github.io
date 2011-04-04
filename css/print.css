@@ -1,21 +1,30 @@
-#site, h1, h2 {
-	font-size: 12pt;
-}
-
 #menu {
 	visibility: hidden;
 	height: 0;
 	width: 0;
 }
 
+p, h1, h2, td {
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 12pt;
+	line-height: 14pt;
+}
+
+h1, h2 {
+	margin-top: 14pt;
+}
+
+h1:first-child {
+	margin-top: 0;
+}
+
 h1 {
 	border-bottom: 1pt solid black;
-	padding-bottom: 1pt;
-	margin-bottom: 5pt;
+	margin-bottom: 6pt;
 }
 
 #cv td:first-child {
-	width: 8em;
+	width: 7em;
 }
 
 a {
