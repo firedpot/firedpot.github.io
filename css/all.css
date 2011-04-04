@@ -7,7 +7,11 @@ a {
 p, h1, h2, #cv td {
 	line-height: 1.2;
 }
-	
+
+em {
+	font-style: italic;
+}
+
 h1, h2 {
 	font-weight: bold;
 }
