@@ -11,10 +11,12 @@ html {
 
 #site, #copyright {
 	font-family: "myriad-pro-1", "myriad-pro-2", Verdana, Arial, sans-serif;
+	font-weight: 400;
 }
 
 #menu, #home {
 	font-family: "ff-cocon-web-pro-1", "ff-cocon-web-pro-2", Verdana, Arial, sans-serif;
+	font-weight: 400;
 }
 
 #site {
@@ -22,9 +24,19 @@ html {
 	margin: 0 auto;
 }
 
-p, h1, h2, td {
-	font-size: 1em;
-	line-height: 1.2;
+p, h1, h2, td, a {
+	font-size: 1.02em;
+	line-height: 1.2em;
+}
+
+h1, h2 {
+	margin-top: 1.2em;
+}
+
+#menu a {
+	display: block;
+	letter-spacing: 0.05em;
+	line-height: 1.5em;
 }
 
 #banner, #page {
@@ -58,13 +70,7 @@ p, h1, h2, td {
 	width: 150px;
 	float: left;
 	padding-left: 10px;
-	line-height: 1.4;
 	overflow: hidden;
-}
-
-#menu a {
-	display: block;
-	letter-spacing: 0.05em;
 }
 
 #menu a:hover {
@@ -74,10 +80,6 @@ p, h1, h2, td {
 #copyright {
 	font-size: 0.5em;
 	margin-top: 4em;
-}
-
-h1, h2 {
-	margin-top: 1.2em;
 }
 
 h1 {
