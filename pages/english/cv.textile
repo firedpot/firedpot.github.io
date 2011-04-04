@@ -7,9 +7,7 @@ class: cv
 
 h1. Personal
 
-<div class="print">
-| Web | www.firedpot.com |
-</div>
+(print).| Web | www.firedpot.com |
 | Email | "paola@firedpot.com":mailto:paola@firedpot.com |
 | Nationality | Italian |
 
