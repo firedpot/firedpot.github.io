@@ -1,7 +1,10 @@
 /* @override http://firedpot.com/css/screen.css */
 
-html {
+html, .wufoo {
 	background-color: #7c7c7c;
+}
+
+html {
 	overflow-y: scroll;
 }
 
@@ -9,7 +12,7 @@ html {
 	font-size: 0;
 }
 
-#site, #copyright {
+#site, #copyright, .wufoo {
 	font-family: "myriad-pro-1", "myriad-pro-2", Verdana, Arial, sans-serif;
 }
 
@@ -22,7 +25,7 @@ html {
 	margin: 0 auto;
 }
 
-p, h1, h2, td, a {
+p, h1, h2, td, a, .wufoo .info h2, .wufoo .info div, label, input {
 	font-size: 1.02em;
 	line-height: 1.2em;
 }
@@ -105,4 +108,8 @@ h1:first-child {
 
 #gallery td:first-child {
 	padding-left: 0;
+}
+
+.wufoo .info {
+	border-bottom: none;
 }
