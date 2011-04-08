@@ -1,8 +1,9 @@
 .wufoo {
 	font-family: "myriad-pro-1", "myriad-pro-2", Verdana, Arial, sans-serif;
+	background-color: #7c7c7c;
 }
 
-.wufoo div, .wufoo h3, .wufoo p {
+.wufoo div, .wufoo h2, .wufoo p {
 	font-size: 1.02em;
 	line-height: 1.2em;
 } 
