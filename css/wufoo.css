@@ -3,7 +3,11 @@
 	background-color: #7c7c7c;
 }
 
-.wufoo div, .wufoo h1, .wufoo h2, .wufoo p {
+.wufoo div, .wufoo h1, .wufoo h2, .wufoo h3, .wufoo p {
 	font-size: 1.02em;
 	line-height: 1.2em;
-} 
+}
+
+.wufoo .info {
+	border-bottom: none;
+}
