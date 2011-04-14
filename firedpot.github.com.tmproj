@@ -63,7 +63,7 @@
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
-		<key>css/gadget.css</key>
+		<key>styles/gadget.css</key>
 		<dict>
 			<key>caret</key>
 			<dict>
@@ -77,7 +77,7 @@
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
-		<key>css/screen.css</key>
+		<key>styles/screen.css</key>
 		<dict>
 			<key>caret</key>
 			<dict>
