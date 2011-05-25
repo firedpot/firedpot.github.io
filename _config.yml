@@ -1,2 +1,2 @@
-exclude: ['firedpot.github.com.tmproj', 'README.textile', 'CNAME']
+exclude: ['README.textile', 'CNAME']
 auto: true
