@@ -1,0 +1,8 @@
+---
+layout: italian
+title: Paola Di Celmo - Gallery Image 6
+link: gallery/6
+class: gallerydetail
+baseurl: ../
+---
+{% include gallery/6.textile %}
