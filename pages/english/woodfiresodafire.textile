@@ -1,0 +1,7 @@
+---
+layout: english
+title: Paola Di Celmo - Woodfiresodafire
+link: woodfiresodafire
+class: gallery
+---
+{% include woodfiresodafire.textile %}
