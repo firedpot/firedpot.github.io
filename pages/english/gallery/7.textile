@@ -1,8 +1,0 @@
----
-layout: english
-title: Paola Di Celmo - Gallery Image 7
-link: gallery/7
-class: gallerydetail
-baseurl: ../
----
-{% include gallery/7.textile %}

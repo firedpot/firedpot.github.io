@@ -1,0 +1,7 @@
+---
+layout: italian
+title: Paola Di Celmo - Istallazioni
+link: installations
+class: gallery
+---
+{% include installations.textile %}
