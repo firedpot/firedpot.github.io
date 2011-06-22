@@ -96,17 +96,17 @@ h1:first-child {
 	width: 5.2em;
 }
 
-#installations td {
+#gallery td {
 	width: 100px;
 	text-align: center;
 	padding: 25px 0 0 35px;
 }
 
-#installations tr:first-child td {
+#gallery tr:first-child td {
 	padding-top: 0;
 }
 
-#installations td:first-child {
+#gallery td:first-child {
 	padding-left: 0;
 }
 
