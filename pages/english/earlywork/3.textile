@@ -1,0 +1,8 @@
+---
+layout: english
+title: Paola Di Celmo - Installations Image 3
+link: installations/3
+class: gallerydetail
+baseurl: ../
+---
+{% include installations/3.textile %}

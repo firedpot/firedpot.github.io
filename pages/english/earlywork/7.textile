@@ -1,0 +1,8 @@
+---
+layout: english
+title: Paola Di Celmo - Installations Image 7
+link: installations/7
+class: gallerydetail
+baseurl: ../
+---
+{% include installationslery/7.textile %}
