@@ -1,8 +1,8 @@
 ---
 layout: english
-title: Paola Di Celmo - Installations Image 6
-link: installations/6
+title: Paola Di Celmo - Earlywork Image 6
+link: earlywork/6
 class: gallerydetail
 baseurl: ../
 ---
-{% include installations/6.textile %}
+{% include earlywork/6.textile %}
