@@ -1,8 +1,0 @@
----
-layout: english
-title: Paola Di Celmo - Earlywork Image 9
-link: earlywork/9
-class: gallerydetail
-baseurl: ../
----
-{% include earlywork/9.textile %}
