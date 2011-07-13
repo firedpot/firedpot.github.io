@@ -5,4 +5,4 @@ link: installations/1
 class: gallerydetail
 baseurl: ../
 ---
-{% include installations/1.textile %}
+{% include rockseries/1.textile %}
