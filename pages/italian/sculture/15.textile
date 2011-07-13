@@ -1,0 +1,8 @@
+---
+layout: english
+title: Paola Di Celmo - Sculptures Image 1
+link: sculptures/1
+class: gallerydetail
+baseurl: ../
+---
+{% include sculptures/1.textile %}

@@ -1,0 +1,8 @@
+---
+layout: italian
+title: Paola Di Celmo - Woodfiresodafire Image 7
+link: woodfiresodafire/7
+class: gallerydetail
+baseurl: ../
+---
+{% include woodfiresodafire/7.textile %}
