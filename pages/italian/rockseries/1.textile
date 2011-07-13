@@ -1,7 +1,7 @@
 ---
 layout: italian
 title: Paola Di Celmo - Rockseries Image 1
-link: installations/1
+link: rockseries/1
 class: gallerydetail
 baseurl: ../
 ---
