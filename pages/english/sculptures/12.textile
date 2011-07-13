@@ -1,8 +1,8 @@
 ---
 layout: english
-title: Paola Di Celmo - Sculptures Image 1
-link: sculptures/1
+title: Paola Di Celmo - Sculptures Image 12
+link: sculptures/12
 class: gallerydetail
 baseurl: ../
 ---
-{% include sculptures/1.textile %}
+{% include sculptures/12.textile %}
