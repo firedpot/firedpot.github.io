@@ -1,8 +1,8 @@
 ---
 layout: italian
-title: Paola Di Celmo - Installations Image 1
-link: installations/1
+title: Paola Di Celmo - Woodfiresodafire Image 1
+link: woodfiresodafire/1
 class: gallerydetail
 baseurl: ../
 ---
-{% include installations/1.textile %}
+{% include woodfiresodafire/1.textile %}
