@@ -1,5 +1,5 @@
 ---
-layout: english
+layout: italian
 title: Paola Di Celmo - Rockseries Image 2
 link: rockseries/2
 class: gallerydetail

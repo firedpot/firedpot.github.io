@@ -1,5 +1,5 @@
 ---
-layout: english
+layout: italian
 title: Paola Di Celmo - Earlywork Image 2
 link: earlywork/2
 class: gallerydetail

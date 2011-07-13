@@ -1,5 +1,5 @@
 ---
-layout: english
+layout: italian
 title: Paola Di Celmo - Rockseries Image 9
 link: rockseries/9
 class: gallerydetail

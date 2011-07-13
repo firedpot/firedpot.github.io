@@ -1,5 +1,5 @@
 ---
-layout: english
+layout: italian
 title: Paola Di Celmo - Sculptures Image 7
 link: sculptures/7
 class: gallerydetail
