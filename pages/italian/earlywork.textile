@@ -1,0 +1,7 @@
+---
+layout: italian
+title: Paola Di Celmo - Earlywork
+link: earlywork
+class: gallery
+---
+{% include earlywork.textile %}

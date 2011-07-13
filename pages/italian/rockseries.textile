@@ -1,0 +1,7 @@
+---
+layout: italian
+title: Paola Di Celmo - Rockseries
+link: rockseries
+class: gallery
+---
+{% include rockseries.textile %}
