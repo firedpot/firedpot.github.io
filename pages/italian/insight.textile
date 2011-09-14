@@ -1,7 +1,7 @@
 ---
 layout: italian
-title: Paola Di Celmo - Intuizione
-link: insight
-class: insight
+title: Paola Di Celmo - Presentazione
+link: profile
+class: profile
 ---
 !http://img.skitch.com/20110323-qr3371s43yfq8gnin6m5yct79i.jpg!
