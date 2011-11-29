@@ -61,7 +61,8 @@
 						<p>Site is under</p>
 						<p>construction</p>
 						<br />
-						<p>{{ site.time }}</p>
+						<p>Updated:</p>
+						<p>{{ site.time | date:'%d %b %Y %H:%M %Z' }}</p>
 					</div>
 				</div>
 				<div id="content">
