@@ -1,2 +1,2 @@
-| !http://img.skitch.com/20110518-bq3pn9s3m4eknp5him36icgtu.jpg!:earlywork/1.html | !http://img.skitch.com/20110518-mmkgpt1c27x969893b4sd5r9pb.jpg!:earlywork/2.html | !http://img.skitch.com/20110518-gc1h4yw465bi2kj7i7j32gkeyi.jpg!:earlywork/3.html | !http://img.skitch.com/20110518-pf1ifh26e1xkjgy86k2er596h2.jpg!:earlywork/4.html |
-| !http://img.skitch.com/20110518-ngajdjwquqan6pnrxsgt93f4b1.jpg!:earlywork/5.html |  |  |  |
+| !images/earlywork/20110518-bq3pn9s3m4eknp5him36icgtu.jpg!:earlywork/1.html | !images/earlywork/20110518-mmkgpt1c27x969893b4sd5r9pb.jpg!:earlywork/2.html | !images/earlywork/20110518-gc1h4yw465bi2kj7i7j32gkeyi.jpg!:earlywork/3.html | !images/earlywork/20110518-pf1ifh26e1xkjgy86k2er596h2.jpg!:earlywork/4.html |
+| !images/earlywork/20110518-ngajdjwquqan6pnrxsgt93f4b1.jpg!:earlywork/5.html |  |  |  |
