@@ -1,6 +1,6 @@
 h1. FiredPot.com License
 
-All content copyright (C) 2011 Paola Di Celmo unless otherwise stated.
+All content copyright (C) 2011 - 2015 Paola Di Celmo unless otherwise stated.
 Some content copyright (C) 2011 Andrew Heald.
 
 This content _is not permitted_ to be copied elsewhere or used for any other purpose without the permission of the copyright holders.
