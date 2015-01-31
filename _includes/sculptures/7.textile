@@ -1,1 +1,1 @@
-!http://img.skitch.com/20110517-ff3r9f7uhc1qh5kj4npg2uwsx.jpg!:../sculptures.html
+!../../../images/sculptures/20110517-ff3r9f7uhc1qh5kj4npg2uwsx.jpg!:../sculptures.html

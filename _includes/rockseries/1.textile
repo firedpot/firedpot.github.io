@@ -1,1 +1,1 @@
-!http://img.skitch.com/20110518-e5g49etm2gm6nxnfmk6irm84ud.jpg!:../rockseries.html
+!../../../images/rockseries/20110518-e5g49etm2gm6nxnfmk6irm84ud.jpg!:../rockseries.html

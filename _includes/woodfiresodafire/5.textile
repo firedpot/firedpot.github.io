@@ -1,1 +1,1 @@
-!http://img.skitch.com/20110518-msf899hsqnhqs1jrs8g97cx5e.jpg!:../woodfiresodafire.html
+!../../../images/woodfiresodafire/20110518-msf899hsqnhqs1jrs8g97cx5e.jpg!:../woodfiresodafire.html

@@ -1,1 +1,1 @@
-!http://img.skitch.com/20110517-n88x15d88sfdb9jmjsxmsr3yps.jpg!:../installations.html
+!../../../images/installations/20110517-n88x15d88sfdb9jmjsxmsr3yps.jpg!:../installations.html

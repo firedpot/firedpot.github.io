@@ -1,1 +1,1 @@
-!http://img.skitch.com/20110517-mesufrbmkn4rxqrgpk718wcyic.jpg!:../installations.html
+!../../../images/installations/20110517-mesufrbmkn4rxqrgpk718wcyic.jpg!:../installations.html
