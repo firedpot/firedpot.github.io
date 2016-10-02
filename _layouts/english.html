@@ -1,4 +1,5 @@
 ---
+layout: common
 language: english
 altlanguage: italian
 optionhome: Home
@@ -15,72 +16,4 @@ optioncontact: Contact
 optionlanguage: Italiano
 languagecode: en
 ---
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE html
-        PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="{{ page.languagecode }}" lang="{{ page.languagecode }}">
-<head>
-    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-    <title>{{ page.title }}</title>
-    <meta name="author" content="Paola Di Celmo" />
-    <meta name="keywords" content="firedpot, fired pot, volcanic ceramics, paola di celmo, anagama kiln, pottery" />
-    <link rel="stylesheet" href="{{ page.baseurl }}../../styles/reset.css" type="text/css" media="all" />
-    <link rel="stylesheet" href="{{ page.baseurl }}../../styles/all.css" type="text/css" media="all" />
-    <link rel="stylesheet" href="{{ page.baseurl }}../../styles/screen.css" type="text/css" media="screen, projection" />
-    <link rel="stylesheet" href="{{ page.baseurl }}../../styles/print.css" type="text/css" media="print" />
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans:regular,regularitalic,bold' rel='stylesheet' type='text/css' />
-    <script type="text/javascript">
-        var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-22583453-1']); _gaq.push(['_trackPageview']);
-        (function() {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })();
-    </script>
-    <script type="text/javascript">
-        if ("{{ page.langredirect }}" != "") {
-            var lang = navigator.language ? navigator.language : navigator.userLanguage;
-            if (lang.substr(0, 2) == "it")
-                if (window.location.replace)
-                    window.location.replace("{{ page.langredirect }}");
-                else
-                    window.location = "{{ page.langredirect }}";
-        }
-    </script>
-</head>
-<body>
-<div id="site">
-    <div id="banner">
-        <img id="logo" src="{{ page.baseurl }}../../images/20110327-1mn2yn4yjtabpt8547s241kapy.png" alt="" />
-        <img id="name" src="{{ page.baseurl }}../../images/20110327-bgacentjbpg9s2m98gymrxd46e.png" alt="" />
-    </div>
-    <div id="page">
-        <div id="menu">
-            <div id="options" class="{{ page.language }}">
-                <a href="{{ page.baseurl }}home.html">{{ page.optionhome }}</a>
-                <a href="{{ page.baseurl }}profile.html">{{ page.optioninsight }}</a>
-                <a href="{{ page.baseurl }}installations.html">{{ page.optioninstallations }}</a>
-                <a href="{{ page.baseurl }}sculptures.html">{{ page.optionsculptures }}</a>
-                <a href="{{ page.baseurl }}rockseries.html">{{ page.optionrockseries }}</a>
-                <a href="{{ page.baseurl }}woodfiresodafire.html">{{ page.optionwoodfiresodafire }}</a>
-                <a href="{{ page.baseurl }}earlywork.html">{{ page.optionearlywork }}</a>
-                <a href="{{ page.baseurl }}cv.html">{{ page.optioncv }}</a>
-                <a href="{{ page.baseurl }}contact.html">{{ page.optioncontact }}</a>
-            </div>
-            <div id="langselect" class="{{ page.altlanguage }}">
-                <a href="{{ page.baseurl }}../{{ page.altlanguage }}/{{ page.link }}.html">{{ page.optionlanguage }}</a>
-            </div>
-            <div id="copyright" class="{{ page.language }}">
-                <p>Copyright &#169; 2011 - 2016</p>
-                <p>Paola Di Celmo</p>
-            </div>
-        </div>
-        <div id="content">
-            <div id="{{ page.class }}" class="{{ page.language }}">
-                {{ content }}
-            </div>
-        </div>
-    </div>
-</div>
-</body>
-</html>
+{{ content }}
