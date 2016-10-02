@@ -3,7 +3,7 @@ layout: english
 title: Volcanic Ceramic by Paola Di Celmo
 link: home
 class: home
-baseurl: pages/english/
+baseurl: ../../
 langredirect: pages/italian/home.html
 language: english
 altlanguage: italian
