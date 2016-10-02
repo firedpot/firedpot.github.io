@@ -1,8 +1,0 @@
----
-layout: english
-title: Paola Di Celmo - Rockseries Image 2
-link: rockseries/2
-class: gallerydetail
-baseurl: ../
----
-{% include rockseries/2.textile %}

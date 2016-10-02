@@ -1,8 +1,0 @@
----
-layout: english
-title: Paola Di Celmo - Woodfiresodafire Image 3
-link: woodfiresodafire/3
-class: gallerydetail
-baseurl: ../
----
-{% include woodfiresodafire/3.textile %}

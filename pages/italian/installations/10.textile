@@ -1,8 +1,0 @@
----
-layout: italian
-title: Paola Di Celmo - Istallazioni Image 10
-link: installations/10
-class: gallerydetail
-baseurl: ../
----
-{% include installations/10.textile %}

@@ -1,8 +1,0 @@
----
-layout: italian
-title: Paola Di Celmo - Earlywork Image 3
-link: earlywork/3
-class: gallerydetail
-baseurl: ../
----
-{% include earlywork/3.textile %}

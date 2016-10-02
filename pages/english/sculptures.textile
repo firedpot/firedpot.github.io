@@ -1,7 +1,0 @@
----
-layout: english
-title: Paola Di Celmo - Sculptures
-link: sculptures
-class: gallery
----
-{% include sculptures.textile %}

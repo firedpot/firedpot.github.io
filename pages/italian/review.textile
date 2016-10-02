@@ -1,6 +1,0 @@
----
-layout: italian
-title: Paola Di Celmo - Rassegna
-link: review
-class: review
----

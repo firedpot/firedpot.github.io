@@ -1,8 +1,0 @@
----
-layout: italian
-title: Paola Di Celmo - Sculptures Image 9
-link: sculptures/9
-class: gallerydetail
-baseurl: ../
----
-{% include sculptures/9.textile %}
