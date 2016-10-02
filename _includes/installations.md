@@ -1,3 +1,44 @@
-| ![](http://firedpot.com/images/installations/20110517-p9a92kwrcddcmj9i6qtf2a4rum.jpg!:installations/1.html | !../../images/installations/20110517-r3p8r8pit1eqjk7u564tpyqg13.jpg!:installations/2.html | !../../images/installations/20110517-jphytapwk8kasm8dkijcffuji9.jpg!:installations/3.html | !../../images/installations/20110517-eaga47y1r8f8qwqghg1d538d2g.jpg!:installations/4.html) |
-| ![](http://firedpot.com/images/installations/20110517-rgqd91h8425difbjsag8in2rmk.jpg!:installations/5.html | !../../images/installations/20110517-t7nymq5mdexsygmmh973pmb23q.jpg!:installations/6.html | !../../images/installations/20110517-drht4bcdn71cm3k7q96rk6nc1t.jpg!:installations/7.html | !../../images/installations/20110517-dwd1wk4f3hukmb5i826hmywpbg.jpg!:installations/8.html) |
-| ![](http://firedpot.com/images/installations/20110517-1ukb4jqe1tg7jrh7tjfe4g1e5g.jpg!:installations/9.html | !../../images/installations/20110517-tbjsyb3ucpmrm3ca8rjjtfawdw.jpg!:installations/10.html) |  |  |
+<table>
+<tr>
+<td>
+![](http://firedpot.com/images/installations/20110517-p9a92kwrcddcmj9i6qtf2a4rum.jpg!:installations/1.html
+</td>
+<td>
+!../../images/installations/20110517-r3p8r8pit1eqjk7u564tpyqg13.jpg!:installations/2.html
+</td>
+<td>
+!../../images/installations/20110517-jphytapwk8kasm8dkijcffuji9.jpg!:installations/3.html
+</td>
+<td>
+!../../images/installations/20110517-eaga47y1r8f8qwqghg1d538d2g.jpg!:installations/4.html)
+</td>
+</tr>
+<tr>
+<td>
+![](http://firedpot.com/images/installations/20110517-rgqd91h8425difbjsag8in2rmk.jpg!:installations/5.html
+</td>
+<td>
+!../../images/installations/20110517-t7nymq5mdexsygmmh973pmb23q.jpg!:installations/6.html
+</td>
+<td>
+!../../images/installations/20110517-drht4bcdn71cm3k7q96rk6nc1t.jpg!:installations/7.html
+</td>
+<td>
+!../../images/installations/20110517-dwd1wk4f3hukmb5i826hmywpbg.jpg!:installations/8.html)
+</td>
+</tr>
+<tr>
+<td>
+![](http://firedpot.com/images/installations/20110517-1ukb4jqe1tg7jrh7tjfe4g1e5g.jpg!:installations/9.html
+</td>
+<td>
+!../../images/installations/20110517-tbjsyb3ucpmrm3ca8rjjtfawdw.jpg!:installations/10.html)
+</td>
+<td>
+
+</td>
+<td>
+
+</td>
+</tr>
+</table>
