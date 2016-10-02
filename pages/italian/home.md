@@ -4,4 +4,4 @@ title: Ceramica Vulcanica di Paola Di Celmo
 link: home
 class: home
 ---
-{% include home.textile %}
+{% include home.md %}

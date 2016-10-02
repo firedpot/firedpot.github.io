@@ -1,1 +1,1 @@
-exclude: ['README.textile', 'CNAME']
+exclude: ['README.md', 'CNAME']
