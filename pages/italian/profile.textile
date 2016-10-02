@@ -1,7 +1,0 @@
----
-layout: italian
-title: Paola Di Celmo - Presentazione
-link: profile
-class: profile
----
-!../../images/statement-Italian.jpg!

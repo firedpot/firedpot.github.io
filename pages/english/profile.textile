@@ -1,7 +1,0 @@
----
-layout: english
-title: Paola Di Celmo - Artist Statement
-link: profile
-class: profile
----
-!../../images/20110321-d7pup56p3de5sqcg99awtpcrym.jpg!
