@@ -1,9 +1,9 @@
 ---
-layout: italian
 title: Contatto con Paola Di Celmo - Grazie
+layout: italian
 link: contact
 class: contact
-baseurl: ../../../
+baseurl: "../../../"
 langredirect: pages/english/home.html
 language: italian
 altlanguage: english

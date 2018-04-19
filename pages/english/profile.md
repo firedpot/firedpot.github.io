@@ -1,9 +1,9 @@
 ---
-layout: english
 title: Paola Di Celmo - Artist Statement
+layout: english
 link: profile
 class: profile
-baseurl: ../../../
+baseurl: "../../../"
 langredirect: pages/italian/home.html
 language: english
 altlanguage: italian
@@ -21,4 +21,5 @@ optioncontact: Contact
 optionlanguage: Italiano
 languagecode: en
 ---
+
 ![](../../images/20110321-d7pup56p3de5sqcg99awtpcrym.jpg)

@@ -1,9 +1,9 @@
 ---
-layout: english
 title: Volcanic Ceramic by Paola Di Celmo
+layout: english
 link: home
 class: home
-baseurl: ../../../
+baseurl: "../../../"
 langredirect: pages/italian/home.html
 language: english
 altlanguage: italian
@@ -21,4 +21,5 @@ optioncontact: Contact
 optionlanguage: Italiano
 languagecode: en
 ---
+
 {% include home.md %}

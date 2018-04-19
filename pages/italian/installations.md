@@ -1,6 +1,6 @@
 ---
-layout: italian
 title: Paola Di Celmo - Istallazioni
+layout: italian
 link: installations
 class: gallery
 langredirect: pages/english/home.html
@@ -20,4 +20,5 @@ optioncontact: Contatto
 optionlanguage: English
 languagecode: it
 ---
+
 {% include installations.md %}

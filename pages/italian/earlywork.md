@@ -1,6 +1,6 @@
 ---
-layout: italian
 title: Paola Di Celmo - Earlywork
+layout: italian
 link: earlywork
 class: gallery
 langredirect: pages/english/home.html
@@ -20,4 +20,5 @@ optioncontact: Contatto
 optionlanguage: English
 languagecode: it
 ---
+
 {% include earlywork.md %}

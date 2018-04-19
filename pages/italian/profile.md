@@ -1,9 +1,9 @@
 ---
-layout: italian
 title: Paola Di Celmo - Presentazione
+layout: italian
 link: profile
 class: profile
-baseurl: ../../../
+baseurl: "../../../"
 langredirect: pages/english/home.html
 language: italian
 altlanguage: english
@@ -21,4 +21,5 @@ optioncontact: Contatto
 optionlanguage: English
 languagecode: it
 ---
+
 ![](../../images/statement-Italian.jpg)

@@ -1,6 +1,6 @@
 ---
-layout: italian
 title: Paola Di Celmo - Sculptures
+layout: italian
 link: sculptures
 class: gallery
 langredirect: pages/english/home.html
@@ -20,4 +20,5 @@ optioncontact: Contatto
 optionlanguage: English
 languagecode: it
 ---
+
 {% include sculptures.md %}

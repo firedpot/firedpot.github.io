@@ -1,6 +1,6 @@
 ---
-layout: english
 title: Paola Di Celmo - Rockseries
+layout: english
 link: rockseries
 class: gallery
 langredirect: pages/italian/home.html
@@ -20,4 +20,5 @@ optioncontact: Contact
 optionlanguage: Italiano
 languagecode: en
 ---
+
 {% include rockseries.md %}

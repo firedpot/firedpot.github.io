@@ -1,6 +1,6 @@
 ---
-layout: english
 title: Paola Di Celmo - Woodfiresodafire
+layout: english
 link: woodfiresodafire
 class: gallery
 langredirect: pages/italian/home.html
@@ -20,4 +20,5 @@ optioncontact: Contact
 optionlanguage: Italiano
 languagecode: en
 ---
+
 {% include woodfiresodafire.md %}
