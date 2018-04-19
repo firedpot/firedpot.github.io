@@ -20,16 +20,6 @@
 				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })();
 		</script>
-		<script type="text/javascript">
-			if ("{{ page.langredirect }}" != "") {
-				var lang = navigator.language ? navigator.language : navigator.userLanguage;
-				if (lang.substr(0, 2) == "it")
-					if (window.location.replace)
-						window.location.replace("{{ page.langredirect }}");
-					else
-						window.location = "{{ page.langredirect }}";
-			}
-		</script>
 	</head>
 	<body>
 		<div id="site">
